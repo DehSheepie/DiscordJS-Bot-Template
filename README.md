@@ -1,2 +1,2 @@
-# ToDoList
-A discord bot for tracking your todo list. 
+# Discord Bot Template
+A template to help me build new discord bots more quickly
